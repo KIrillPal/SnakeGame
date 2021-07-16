@@ -1,0 +1,141 @@
+﻿  DrawingMap.cpp
+E:\Desktop\Проекты\SnakeGame\SnakeGame\DrawingMap.h(9): warning C4305: инициализация: усечение из "double" в "const float"
+E:\Desktop\Проекты\SnakeGame\SnakeGame\DrawingMap.cpp(49): warning C4244: *=: преобразование "const float" в "sf::Uint8", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\DrawingMap.cpp(50): warning C4244: *=: преобразование "const float" в "sf::Uint8", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\DrawingMap.cpp(76): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\DrawingMap.cpp(78): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\DrawingMap.cpp(87): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\DrawingMap.cpp(202): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+  ownUtilities.cpp
+E:\Desktop\Проекты\SnakeGame\SnakeGame\ownUtilities.cpp(17): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnakeGame\SnakeGame\ownUtilities.cpp(24): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnakeGame\SnakeGame\ownUtilities.cpp(25): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnakeGame\SnakeGame\ownUtilities.cpp(39): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnakeGame\SnakeGame\ownUtilities.cpp(44): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  PxButton.cpp
+E:\Desktop\Проекты\SnakeGame\SnakeGame\PxButton.h(10): warning C4305: инициализация: усечение из "double" в "float"
+E:\Desktop\Проекты\SnakeGame\SnakeGame\PxButton.cpp(19): warning C4244: инициализация: преобразование "float" в "uint16_t", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\PxButton.cpp(38): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\PxButton.cpp(39): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\PxButton.cpp(40): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\PxButton.cpp(41): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\PxButton.cpp(42): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\PxButton.cpp(43): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\PxButton.cpp(44): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\PxButton.cpp(45): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\PxButton.cpp(46): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+  ScrollWindow.cpp
+E:\Desktop\Проекты\SnakeGame\SnakeGame\PxButton.h(10): warning C4305: инициализация: усечение из "double" в "float"
+E:\Desktop\Проекты\SnakeGame\SnakeGame\ScrollWindow.cpp(17): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnakeGame\SnakeGame\ScrollWindow.cpp(116): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  SnakeGame.cpp
+E:\Desktop\Проекты\SnakeGame\SnakeGame\DrawingMap.h(9): warning C4305: инициализация: усечение из "double" в "const float"
+E:\Desktop\Проекты\SnakeGame\SnakeGame\PxButton.h(10): warning C4305: инициализация: усечение из "double" в "float"
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(92): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(176): warning C4305: =: усечение из "double" в "float"
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(180): warning C4305: =: усечение из "double" в "float"
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(206): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(208): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(295): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(296): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(297): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(298): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(301): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(308): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(309): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(310): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(311): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(321): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(322): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(323): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(324): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(325): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(327): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(331): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(333): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(335): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(337): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(339): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(357): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(358): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(400): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(404): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(438): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(440): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(441): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(442): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(443): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(444): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(445): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(447): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(449): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(451): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(456): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(457): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(458): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(459): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(460): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(461): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(465): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(506): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(507): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\SnakeGame.cpp(443): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  TextBox.cpp
+E:\Desktop\Проекты\SnakeGame\SnakeGame\TextBox.cpp(15): warning C4244: =: преобразование "T" в "uint16_t", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnakeGame\SnakeGame\TextBox.cpp(80): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnakeGame\SnakeGame\TextBox.cpp(103): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Desktop\Проекты\SnakeGame\SnakeGame\TextBox.cpp(113): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  710 of 719 functions (98.7%) were compiled, the rest were copied from previous compilation.
+    28 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SnakeGame.vcxproj -> E:\Desktop\Проекты\SnakeGame\x64\Release\SnakeGame.exe
